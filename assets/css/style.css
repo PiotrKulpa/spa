@@ -1,0 +1,89 @@
+/*Autor: Piotr Kulpa*/
+
+h1{
+	
+	font-style: oblique;	
+}
+
+h3{
+	
+	font-style: oblique;
+}
+h4{
+	
+	font-style: oblique;
+}
+
+.home-bg{
+	
+	background-color: #FFFFFF;
+}
+
+.about-bg{
+	
+	background-color: #000000;
+	
+}
+
+
+
+.container{
+	background-color: #FFFFFF;
+	font-family: Gorgia;
+	
+}
+
+.container.bg-black{
+	background-color: #222222;
+	font-family: Arial;
+	
+}
+
+#myInput{
+	
+	background-color: #e7e7e7;
+}
+
+iframe{
+	
+	margin-top: 5px;
+}
+
+#padding50top{
+	
+	padding-top: 50px;
+}
+
+
+#footer-black{
+	
+	background-color: #000;
+	height: 200px;
+	color: #FFF;
+}
+
+img.footer-logo{
+	
+	display: block;
+	margin: 0 auto;
+	width: 40%;
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 50px;
+	
+}
+
+#copyright, #author{
+	
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
