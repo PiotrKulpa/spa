@@ -439,5 +439,9 @@ class Admin extends CI_Controller {
 			}
 		}
 	}
+	public function testgit()
+	{
+		//To funkcja testująca Git
+	}
 	
 }
