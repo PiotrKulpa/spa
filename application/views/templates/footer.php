@@ -7,6 +7,8 @@
       <script src="<?php echo base_url('assets/js/bootstrap.min.js'); ?>"></script>
 	
       <script src="<?php echo base_url('assets/lightbox2/src/js/lightbox.js'); ?>"></script>
+
+      <script src="<?php echo base_url('assets/js/my-app.js'); ?>"></script>
 	  	
 	
 	<div id="footer-black" class="container-fluid">
