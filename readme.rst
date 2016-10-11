@@ -31,9 +31,9 @@ issues, as well as missing features.
 Installation
 ************
 
-Copy and paste to server
-Set database.php
-Set /assets/php/connection.php
+Copy and paste to server</br>
+Set database.php</br>
+Set /assets/php/connection.php</br>
 Set url to data in Angular controller
 
 *******
